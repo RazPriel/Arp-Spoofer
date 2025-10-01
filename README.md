@@ -23,8 +23,8 @@ pip install scapy
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/arp-spoofer-demo.git
-cd arp-spoofer-demo
+git clone https://github.com/RazPriel/Arp-Spoofer.git
+cd Arp-Spoofer
 ```
 
 2. Run the script:
